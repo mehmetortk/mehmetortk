@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Currently working on project "Leafy House"<br>📚 I'm currently learning advanced structures<br>🎯 Goals: Release Leafy House</p>
+<p align="center">✨ Currently working on project "Leafy House"<br>📚 I'm currently learning CI/CD<br>🎯 Goals: Release Leafy House</p>
 
 ###
 
