@@ -15,12 +15,14 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/qS0i8fu.jpeg"  />
+  <a href="https://github.com/mehmetortk/LeafyHouse">
+    <img height="200" src="https://i.imgur.com/qS0i8fu.jpeg" />
+  </a>
 </div>
 
 ###
 
-<h4 align="center">Leafy House: "Plant Care with AI"</h4>
+<h4 align="center">[Leafy House: "Plant Care with AI"](https://github.com/mehmetortk/LeafyHouse)</h4>
 
 ###
 
