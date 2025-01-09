@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="center">[Leafy House: "Plant Care with AI"](https://github.com/mehmetortk/LeafyHouse)</h4>
+<h4 align="center"><a href="https://github.com/mehmetortk/LeafyHouse">Leafy House: "Plant Care with AI"</a></h4>
 
 ###
 
